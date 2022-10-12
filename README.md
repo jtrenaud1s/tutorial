@@ -7,3 +7,5 @@ https://expressjs.com/en/5x/api.html
 https://typeorm.io/
 
 https://axios-http.com/docs/intro
+
+https://jestjs.io/docs/getting-started
